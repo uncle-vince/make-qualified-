@@ -1,9 +1,16 @@
 # make-qualified-
 go to https://github.com/new
+
 Repository any name what you like
+
 set as "PUBILC" and tick "Add a README file", then Create repository
+
 Open Codespace and click green for create a new one
+
 till your terminal open and ready paste the following commands, STEP BY STEP
+
+
+
 echo "Commit 1 line" >> README.md
 git add README.md
 GIT_AUTHOR_DATE="2025-06-10T06:01:01" GIT_COMMITTER_DATE="2025-06-10T06:01:01" git commit -m "Commit 1"
@@ -63,5 +70,8 @@ GIT_AUTHOR_DATE="2025-06-10T08:10:14" GIT_COMMITTER_DATE="2025-06-10T08:10:14" g
 echo "Commit 15 line" >> README.md
 git add README.md
 GIT_AUTHOR_DATE="2025-06-10T08:20:15" GIT_COMMITTER_DATE="2025-06-10T08:20:15" git commit -m "Commit 15"
+
+
 git push
+
 waits 3-5 mins
